@@ -101,8 +101,7 @@
     }
     
     .team-member.jayanna {
-      border: 2px solid #ec4899;
-      background: #fdf2f8;
+      border: 2px
     }
     
     .member-header {
